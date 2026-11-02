@@ -14,3 +14,4 @@ Data engineer in Guadalajara, Mexico. I build the layer between messy source sys
 ## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/roman-alejandro-lopez)
+- [Download my CV (PDF)](https://github.com/romloc11/romloc11/raw/main/CV_RomanLopez_DataEngineer.pdf)
