@@ -8,7 +8,7 @@ Data engineer in Guadalajara, Mexico. I build the layer between messy source sys
 
 - Medallion architecture (Bronze/Silver/Gold) over three sources on three engines: an ERP, a CRM and an e-commerce database
 - 26 dbt models and 98 tests, SCD Type 2 rebuilt from a change log, payment-to-invoice matching
-- Airflow orchestration in progress
+- Airflow DAG for the daily load: parallel loads, source gate, dbt, retries, failure alerts, 9 DAG tests and CI
 - [dbt documentation site](https://romloc11.github.io/order-to-cash-dwh/dbt/)
 
 ## Find me
